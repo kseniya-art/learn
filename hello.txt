@@ -4,3 +4,4 @@ hihi
 g
 new
 hihi
+add new
